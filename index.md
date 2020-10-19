@@ -9,3 +9,5 @@ You can use the [editor on GitHub](https://github.com/andreipopescu07/andreipope
 Pagina a fost generata cu github pages
 
 pentru mai multe detalii accesati [GitHub repo](https://github.com/andreipopescu07/andreipopescu07.github.io).
+
+![Image](https://github.com/andreipopescu07/andreipopescu07.github.io/blob/main/1200px-SNice.svg.webp)
